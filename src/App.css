@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+button{
+  color: black;
+  border: 1px solid;
+  border-color: black;
+  background-color: rgba(255, 0, 0, 0.728);
+  border-radius: 25px;
+}
+button :active{
+  color: black;
+  border: 1.5px solid;
+  border-color: black;
+  background-color: rgb(0, 0, 0);
+}
